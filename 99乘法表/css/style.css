@@ -1,0 +1,7 @@
+table{
+    width: 600px;
+    border-collapse: collapse;
+}
+table th{
+    border: #CC0000 1px solid;
+}
